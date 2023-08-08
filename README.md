@@ -12,7 +12,7 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/2f14dd86-c80e-
 2. Tip Calculator: I learnt primitive data types, type error, type checking, type conversion, mathematical operations, number manipulation and f-strings
 
     [LIVE DEMO](https://replit.com/@BarisGungor/band-name-generator-start)
-   
-https://github.com/barisgungor10/python3-projects/assets/65550845/f522583b-8137-439a-8494-965b19e80120
+
+https://github.com/barisgungor10/python3-projects/assets/65550845/7ac85e75-f775-4bcc-91d7-dc85632b2221
 
 3.

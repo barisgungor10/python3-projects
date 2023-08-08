@@ -5,7 +5,7 @@ Here are my python3 projects following [100 Days of Code: The Complete Python Pr
 
 1. Band Name Generator: I learnt print function, debugging, string manipulation, code intelligence,  input function and variables
 
-[LIVE DEMO](https://replit.com/@BarisGungor/band-name-generator-start)
+    [LIVE DEMO](https://replit.com/@BarisGungor/band-name-generator-start)
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/2f14dd86-c80e-4225-bad7-4481425182d8
 

@@ -3,5 +3,5 @@ Here are my python3 projects following [100 Days of Code: The Complete Python Pr
 ##Projects
 Band Name Generator: I learnt how to use print - input functions and how to assign variables
 [LIVE DEMO](https://replit.com/@BarisGungor/band-name-generator-start)
-https://github.com/barisgungor10/python3-projects/assets/65550845/2f14dd86-c80e-4225-bad7-4481425182d8
 
+https://github.com/barisgungor10/python3-projects/assets/65550845/2f14dd86-c80e-4225-bad7-4481425182d8

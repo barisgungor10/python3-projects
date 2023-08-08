@@ -1,5 +1,5 @@
 # Learning Python3 with Projects
-Here are my python3 projects following [100 Days of Code: The Complete Python Pro Bootcamp for 2023]([https://pages.github.com/](https://www.udemy.com/course/100-days-of-code/)).
+Here are my python3 projects following [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://pages.github.com/](https://www.udemy.com/course/100-days-of-code/)).
 
 ## Projects
 

@@ -18,3 +18,7 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/bba198a9-3618-
 3. Treasure Island: I learnt control flow with if/else and conditional operators, nested if/elif statements, multiple if statements in succession and logical operators
 
     [LIVE DEMO](https://replit.com/@BarisGungor/tip-calculator-start)
+
+https://github.com/barisgungor10/python3-projects/assets/65550845/c92e0449-0cec-45bf-bd98-fa7b452a196b
+
+4.

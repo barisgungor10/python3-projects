@@ -40,3 +40,5 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/b4f0a316-8198-
     leaning against the right wall
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/59f3e4c7-d27c-48c9-9263-f7d780955c08
+
+7.

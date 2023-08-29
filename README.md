@@ -34,3 +34,9 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/d06e29ed-e200-
 https://github.com/barisgungor10/python3-projects/assets/65550845/b4f0a316-8198-43de-97ac-190b8fa86b12
 
 6. Escaping The Maze: I learned defining and calling functions, indentation, while loops.
+
+    [LIVE DEMO](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+
+    leaning against the right wall
+
+https://github.com/barisgungor10/python3-projects/assets/65550845/59f3e4c7-d27c-48c9-9263-f7d780955c08

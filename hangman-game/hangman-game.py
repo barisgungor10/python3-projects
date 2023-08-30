@@ -36,7 +36,6 @@ while not end_of_game:
         # If the guessed letter matches a letter in the word, reveal it in the display
         if letter == guess:
             display[position] = letter
-
     # Check if the guessed letter is not in the chosen word
     if guess not in chosen_word:
         print("That's not in the word. You lose a life.")

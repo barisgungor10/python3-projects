@@ -41,4 +41,8 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/b4f0a316-8198-
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/59f3e4c7-d27c-48c9-9263-f7d780955c08
 
-7.
+7. Hangman Game: I learned how to break a complex problem down into a flow chart and improving the user experience.
+
+    [LIVE DEMO](https://replit.com/@BarisGungor/Day-7-Hangman-5-Start)
+
+https://github.com/barisgungor10/python3-projects/assets/65550845/ecc3f560-d1bf-4b56-b724-7751358491f8

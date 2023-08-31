@@ -47,8 +47,8 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/59f3e4c7-d27c-
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/4930e49c-b974-45a5-b0ce-30e114b9c4cc
 
-8. Caesar Cipher:
+8. Caesar Cipher: I learned functions with inputs, positional vs. keyword arguments.
 
-       [LIVE DEMO](https://replit.com/@BarisGungor/Day-7-Hangman-5-Start)
+   [LIVE DEMO](https://replit.com/@BarisGungor/caesar-cipher-start#main.py)
 
-https://github.com/barisgungor10/python3-projects/assets/65550845/4930e49c-b974-45a5-b0ce-30e114b9c4cc
+https://github.com/barisgungor10/python3-projects/assets/65550845/a378f7cc-229b-455f-9360-dadedc49feb0

@@ -33,7 +33,7 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/d06e29ed-e200-
    
 https://github.com/barisgungor10/python3-projects/assets/65550845/b4f0a316-8198-43de-97ac-190b8fa86b12
 
-6. Escaping The Maze: I learned defining and calling functions, indentation, while loops.
+6. Escaping The Maze: I learned to define and call functions, indentation, and while loops.
 
     [LIVE DEMO](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
@@ -41,14 +41,18 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/b4f0a316-8198-
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/59f3e4c7-d27c-48c9-9263-f7d780955c08
 
-7. Hangman Game: I learned how to break a complex problem down into a flow chart and improving the user experience.
+7. Hangman Game: I learned how to break a complex problem into a flow chart and improve the user experience.
 
     [LIVE DEMO](https://replit.com/@BarisGungor/Day-7-Hangman-5-Start)
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/4930e49c-b974-45a5-b0ce-30e114b9c4cc
 
-8. Caesar Cipher: I learned functions with inputs, positional vs. keyword arguments.
+8. Caesar Cipher: I learned functions with inputs, and positional vs. keyword arguments.
 
-   [LIVE DEMO](https://replit.com/@BarisGungor/caesar-cipher-start#main.py)
+   [LIVE DEMO](https://replit.com/@BarisGungor/caesar-cipher-start)
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/a378f7cc-229b-455f-9360-dadedc49feb0
+
+9. Blind Auction: I learned dictionaries, nesting lists and dictionaries.
+
+   [LIVE DEMO](https://replit.com/@BarisGungor/blind-auction-start)

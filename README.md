@@ -56,3 +56,7 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/a378f7cc-229b-
 9. Blind Auction: I learned dictionaries, nesting lists and dictionaries.
 
    [LIVE DEMO](https://replit.com/@BarisGungor/blind-auction-start)
+
+https://github.com/barisgungor10/python3-projects/assets/65550845/bdc83cd7-89f6-4652-bfd1-5b0d4860b25e
+
+10. 

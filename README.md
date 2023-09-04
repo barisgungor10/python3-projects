@@ -53,10 +53,16 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/4930e49c-b974-
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/a378f7cc-229b-455f-9360-dadedc49feb0
 
-9. Blind Auction: I learned dictionaries, nesting lists and dictionaries.
+9. Blind Auction: I learned dictionaries and nesting lists.
 
    [LIVE DEMO](https://replit.com/@BarisGungor/blind-auction-start)
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/bdc83cd7-89f6-4652-bfd1-5b0d4860b25e
 
-10. 
+10. Calculator: I learned functions with outputs, multiple return values and docstrings.
+
+    [LIVE DEMO](https://replit.com/@BarisGungor/calculator-final)
+
+https://github.com/barisgungor10/python3-projects/assets/65550845/fda7d2e2-1d1a-41f5-a7c9-7298089973cc
+
+11. Blackjack: 

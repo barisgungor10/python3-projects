@@ -54,9 +54,6 @@ def calculator():
             clear()  # Clear the console screen
             calculator()  # Start a new calculation by calling the calculator function recursively
             loop = False  # Exit the loop
-        else:
-            print("You entered an invalid character! ")
-            decision = input(f"Type 'y' to continue calculating with {result}, or type 'n' to start a new calculation: ")
-
+            
 # Call the calculator function to start the program
 calculator()

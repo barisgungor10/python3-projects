@@ -63,6 +63,8 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/bdc83cd7-89f6-
 
     [LIVE DEMO](https://replit.com/@BarisGungor/calculator-final)
 
+11.
+
 https://github.com/barisgungor10/python3-projects/assets/65550845/fda7d2e2-1d1a-41f5-a7c9-7298089973cc
 
 11. Blackjack: 

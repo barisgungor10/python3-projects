@@ -75,6 +75,6 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/be28a7a1-51ab-
 
     [LIVE DEMO](https://replit.com/@BarisGungor/guess-the-number-start)
 
-https://github.com/barisgungor10/python3-projects/assets/65550845/6911c82b-c5e4-4ef5-81ac-981a1b31fbde
+https://github.com/barisgungor10/python3-projects/assets/65550845/1a0562f8-32a2-486e-a53b-632509cebf4d
 
 13.

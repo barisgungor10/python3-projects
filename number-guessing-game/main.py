@@ -2,8 +2,6 @@
 from art import logo
 # Import the randint function from the 'random' library
 from random import randint
-# Import the clear function from the 'replit' library
-from replit import clear
 
 # Print the game logo
 print(logo)
@@ -16,7 +14,6 @@ print("I'm thinking of a number between 1 and 100\n")
 attempts = 5
 # Generate a random number between 1 and 100
 number = randint(1, 100)
-print(number)  # Debugging line, you can remove this
 
 # Ask the player to choose a difficulty level
 decision = input("Choose a difficulty. Type 'easy' or 'hard': ").lower()
@@ -27,7 +24,7 @@ if decision == "easy":
 # Main game loop
 while attempts != 0:
     # Display the number of remaining attempts
-    print(f"\nYou have {attempts} remaining to guess the number.\n")
+    print(f"\nYou have {attempts} attempts remaining to guess the number.\n")
 
     # Get the player's guess as an integer
     guess = int(input("Make a guess: "))
@@ -49,4 +46,3 @@ while attempts != 0:
         print("\nYou've run out of guesses, you lose.")
     else:
         print("\nGuess again")
-        clear()  # Clear the console screen for the next guess

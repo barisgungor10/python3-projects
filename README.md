@@ -71,4 +71,10 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/fda7d2e2-1d1a-
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/be28a7a1-51ab-4fb7-9e54-bf74ae083521
 
-12.
+12. Number Guessing Game: I learned namespaces: local vs. global scopes, how to modify a global variable, constants and global scope.
+
+    [LIVE DEMO](https://replit.com/@BarisGungor/guess-the-number-start)
+
+https://github.com/barisgungor10/python3-projects/assets/65550845/6911c82b-c5e4-4ef5-81ac-981a1b31fbde
+
+13.

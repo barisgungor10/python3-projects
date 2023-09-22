@@ -77,4 +77,6 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/be28a7a1-51ab-
 
 https://github.com/barisgungor10/python3-projects/assets/65550845/1a0562f8-32a2-486e-a53b-632509cebf4d
 
-13.
+13. Debugging: I learned to describe the problem, reproduce the bug, play computer and evaluate each line, fixing errors and watching for red underlines, squash bugs with print() statement and bringing out the BIG Gun: Using a Debugger. 
+
+14.

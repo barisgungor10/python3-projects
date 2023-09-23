@@ -79,4 +79,9 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/1a0562f8-32a2-
 
 13. Debugging: I learned to describe the problem, reproduce the bug, play computer and evaluate each line, fixing errors and watching for red underlines, squash bugs with print() statement and bringing out the BIG Gun: Using a Debugger. 
 
-14.
+14. Higher Or Lower: Completed requirements, walkthrough of higher or lower game.
+
+    [LIVE DEMO](https://replit.com/@BarisGungor/higher-lower-start)
+
+
+

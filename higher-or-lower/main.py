@@ -1,3 +1,5 @@
+### It is working well but only thing is not working is sometimes game gives same names to user ( i think pop does not work ) 
+
 # Import necessary modules and libraries
 from art import logo, vs
 from game_data import data

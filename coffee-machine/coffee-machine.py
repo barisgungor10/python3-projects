@@ -1,3 +1,4 @@
+# Define the menu items and their ingredients and costs
 MENU = {
     "espresso": {
         "ingredients": {
@@ -24,46 +25,50 @@ MENU = {
     }
 }
 
+# Define the initial resources
 resources = {
     "water": 300,
     "milk": 200,
     "coffee": 100,
 }
 
+# Initialize the total money earned
 TOTAL_MONEY = 0
+
+# Initialize the application state
 application = True
 
-
+# Function to print the current resource status and total money
 def print_report():
     print(f"Water: {resources['water']}ml")
     print(f"Milk: {resources['milk']}ml")
     print(f"Coffee: {resources['coffee']}g")
     print(f"Money: ${TOTAL_MONEY}")
 
-
+# Function to check if there are enough resources for the selected item
 def checking_resources(item):
     if item != "espresso":
         if MENU[item]['ingredients']['milk'] > resources['milk']:
-            print("Sorry there is no enough milk")
+            print("Sorry there is not enough milk")
 
     if MENU[item]['ingredients']["water"] > resources["water"]:
         print("Sorry there is not enough water")
     elif MENU[item]['ingredients']["coffee"] > resources["coffee"]:
-        print("Sorry there is no enough coffee")
+        print("Sorry there is not enough coffee")
     else:
         checking_money(item)
 
-
+# Function to check if the user has inserted enough money
 def checking_money(item):
     global TOTAL_MONEY
 
     print("Please insert coins.")
     quarters_count = float(input("How many quarters?: ")) * 1/4
     dimes_count = float(input("How many dimes?: ")) * 1/10
-    nickles_count = float(input("How many nickles?: ")) * 1/20
+    nickels_count = float(input("How many nickels?: ")) * 1/20
     pennies_count = float(input("How many pennies?: ")) * 1/100
 
-    user_money = quarters_count + dimes_count + nickles_count + pennies_count
+    user_money = quarters_count + dimes_count + nickels_count + pennies_count
     if user_money < MENU[item]['cost']:
         print("Sorry that's not enough money. Money refunded")
     else:
@@ -72,18 +77,18 @@ def checking_money(item):
         print(f"Enjoy your {item}☕")
         print(f"Here is ${user_money:.2f} dollars in change.")
 
-
+# Function to handle user's choice
 def choice():
     global application
 
     which_one = input("What would you like? (espresso/latte/cappuccino): ").lower()
-    if which_one == "return":
+    if which_one == "report":
         print_report()
     elif which_one == "off":
         application = False
     else:
         checking_resources(which_one)
 
-
+# Main program loop
 while application:
     choice()

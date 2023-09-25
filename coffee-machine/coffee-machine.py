@@ -47,15 +47,26 @@ def print_report():
 
 # Function to check if there are enough resources for the selected item
 def checking_resources(item):
+    global resources
+
+    # Check milk availability for items other than espresso
     if item != "espresso":
         if MENU[item]['ingredients']['milk'] > resources['milk']:
             print("Sorry there is not enough milk")
 
+    # Check water and coffee availability
     if MENU[item]['ingredients']["water"] > resources["water"]:
         print("Sorry there is not enough water")
     elif MENU[item]['ingredients']["coffee"] > resources["coffee"]:
         print("Sorry there is not enough coffee")
     else:
+        # Deduct used resources
+        if item != "espresso":
+            resources["milk"] -= MENU[item]['ingredients']['milk']
+        resources["water"] -= MENU[item]['ingredients']['water']
+        resources["coffee"] -= MENU[item]['ingredients']['coffee']
+
+        # Check money and proceed to make the drink
         checking_money(item)
 
 # Function to check if the user has inserted enough money
@@ -72,8 +83,10 @@ def checking_money(item):
     if user_money < MENU[item]['cost']:
         print("Sorry that's not enough money. Money refunded")
     else:
+        # Update total money and provide change
         TOTAL_MONEY += MENU[item]['cost']
         user_money -= MENU[item]['cost']
+
         print(f"Enjoy your {item}☕")
         print(f"Here is ${user_money:.2f} dollars in change.")
 

@@ -83,4 +83,10 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/1a0562f8-32a2-
 
     [LIVE DEMO](https://replit.com/@BarisGungor/higher-lower-start)
 
+https://github.com/barisgungor10/python3-projects/assets/65550845/08a52870-3083-459c-9308-bbb55859fb1a
+
+15. Coffee Machine: Installed PyCharm, completed requirements and walkthrough.
+    
 https://github.com/barisgungor10/python3-projects/assets/65550845/86235e53-b4c2-4d33-bf3f-a2d75fb2f9de
+
+16.

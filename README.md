@@ -89,4 +89,8 @@ https://github.com/barisgungor10/python3-projects/assets/65550845/08a52870-3083-
     
 https://github.com/barisgungor10/python3-projects/assets/65550845/86235e53-b4c2-4d33-bf3f-a2d75fb2f9de
 
-16.
+16. Coffe Machine ( with OOP ): I learned why do we need OOP and how does it?, how to use OOP: Classes and Objects, constructing objects and accessing their attributes and methods, how to add Python Packages and PypPi, Practice modifying object attributes and calling methods.
+
+https://github.com/barisgungor10/python3-projects/assets/65550845/7f4659f8-ead9-4837-9a49-5743fdd3c81d
+
+17.
